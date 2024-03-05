@@ -13,7 +13,7 @@ I'm a Fresh Graduate from the faculty of Computer Science, I am dedicated wholeh
 
 
  ## Other
-  - :octocat: [My Resume]()
+  - :octocat: [My Resume](https://drive.google.com/file/d/1Yjen8iX56uhBaK5Kl0Fq9d6_lJJEHoU3/view?usp=drive_link)
 
  ## Reach me out on:
 
